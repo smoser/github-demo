@@ -3,3 +3,4 @@
 - Ohio State
 - Indiana
 - Saint Joseph's College
+- U.C. Davis
