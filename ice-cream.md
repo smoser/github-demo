@@ -3,3 +3,4 @@
 - Blue Moon
 - Java Chip
 - Eskimo Kisses
+- Chocolate with Cheesecake Pieces
