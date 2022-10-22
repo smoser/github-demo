@@ -5,6 +5,7 @@ These are some awesome github usernames
 
  * [smoser](https://github.com/smoser) (obligatory).
  * [erclee2000](https://github.com/erclee2000)
+ * [AlexaDaniels25](https://github.com/AlexaDaniels25)
 
 
 ## Teams
