@@ -3,3 +3,4 @@
 - Blue Moon
 - Java Chip
 - Eskimo Kisses
+- Mint Chocolate Chip
